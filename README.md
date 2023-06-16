@@ -1,2 +1,2 @@
-
-Sistemas persistentes de datos
+## Sistemas Persistentes de Datos
+- Realizado con csv y Python
